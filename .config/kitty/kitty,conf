@@ -16,3 +16,6 @@ font_family      family="mplus Nerd Font"
 bold_font        auto
 italic_font      auto
 bold_italic_font auto
+
+# Color schemes
+include joyful.conf
